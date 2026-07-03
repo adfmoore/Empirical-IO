@@ -8,7 +8,7 @@ organization, including the classic Rust (1987) and BLP (1995) models.
 ## What's here
 
 | Notebook | Model | Method | 
-|---|---|---|---|
+|---|---|---|
 | `Rust.ipynb` | Bus-engine replacement (1987) | Nested fixed point (NFXP) | 
 | `Su_and_Judd.ipynb` | Same model, estimated via MPEC | Constrained optimization | 
 | `BLP.ipynb` | Random coefficients demand (1995) | Generalized Method of Moments (GMM) |
