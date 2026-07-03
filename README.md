@@ -24,6 +24,7 @@ Note that `Rust.ipynb` generates the simulated panel (`rust.csv`) used by
 `Su_and_Judd.ipynb` and so needs to be run first. 
 
 ## References
-- Rust, J. (1987). *Econometrica* 55(5), 999–1033.
 - Berry, Levinsohn & Pakes (1995). *Econometrica* 63(4), 841–890.
+- Dube, J.P., Fox, J. and Su, C.-L (2012), "Improving the Numerical Performance of Static and Dynamic Aggregate Discrete Choice Random Coefficients Demand Estimation." Econometrica, 80: 2231-2267
+- Rust, J. (1987). *Econometrica* 55(5), 999–1033.
 - Su, C.-L. & Judd, K. (2012). *Econometrica* 80(5), 2213–2230.
