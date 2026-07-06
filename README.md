@@ -20,7 +20,7 @@ organization, including the classic Rust (1987) and BLP (1995) models.
 pip install -r requirements.txt
 ​```
 
-Note that `Rust.ipynb` generates the simulated panel (`rust.csv`) used by
+Note that `Rust.ipynb` generates the simulated data (`rust.csv`) used by
 `Su_and_Judd.ipynb` and so needs to be run first. 
 
 ## References
